@@ -5,4 +5,4 @@ Gerando um novo CPF válido a cada 5 segundos com Js/Webpack
 Utilizando módulos ES6 / Ferramentas JavaScript
 
 # Ensino
-Aplicando os estudos aprendidos no curso do Luiz Otávido da Udemy !
+Aplicando os estudos aprendidos no curso do Luiz Otávio da Udemy !
